@@ -58,7 +58,7 @@ import userModel from '../models/userModel.js'
     // placing user order from frontend (COD or offline payment)
     const placeOrder = async (req, res) => {
 
-    const frontend_url = "http://localhost:5174";
+    const frontend_url = "https://tomato-frontend-9bhd.onrender.com/";
 
    
 
